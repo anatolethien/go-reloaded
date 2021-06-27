@@ -1,8 +1,8 @@
 # go-reloaded
 
--   [atoi](docs/atoi.md)
--   [split](docs/split.md)
--   [splitwhitespaces](docs/splitwhitespaces.md)
+-   [atoi](atoi.md)
+-   [split](split.md)
+-   [splitwhitespaces](splitwhitespaces.md)
 
 ## atoi
 
