@@ -5,8 +5,8 @@ func Join(elems []string, sep string) string {
 	if len(elems) == 0 {
 		return ""
 	}
-	for i, s := range elems {
-		output += s
+	for i, v := range elems {
+		output += v
 		if i != len(elems)-1 {
 			output += sep
 		}
